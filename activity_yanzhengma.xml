@@ -10,7 +10,7 @@
         android:background="#0079D7"
         android:padding="@dimen/dp_5">
 
-        <ImageView
+        <Button
             android:id="@+id/huitui"
             android:layout_width="@dimen/dp_40"
             android:layout_height="@dimen/dp_40"
@@ -18,7 +18,7 @@
             android:padding="@dimen/dp_10"
             android:src="@mipmap/umcsdk_return_bg" />
 
-        <TextView
+        <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
